@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name     = 'UIResponder+KeyboardAnimation'
-  s.version  = '0.1'
+  s.version  = '0.2'
   s.ios.deployment_target   = '6.0'
   s.license  = 'MIT'
   s.summary  = 'Showing/dismissing keyboard animation in simple view uiresponder category.'
